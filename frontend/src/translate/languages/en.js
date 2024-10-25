@@ -51,7 +51,7 @@ const messages = {
 					disconnectTitle: "Disconnect",
 					disconnectMessage: "Are you sure? You'll need to read QR Code again.",
 				},
-				buttons: {
+				buttons: { 
 					add: "Add WhatsApp",
 					disconnect: "Disconnect",
 					tryAgain: "Try Again",
